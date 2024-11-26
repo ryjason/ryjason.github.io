@@ -1,89 +1,86 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jason Rao's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jason Rao
+Computer Science Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:jasonrao@byui.edu">jasonrao@byui.edu</a>
+| <a href="https://www.linkedin.com/in/yujie-rao">LinkedIn</a>
+| <a href="https://github.com/ryjason">GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing a Bachelor’s degree in Computer Science with a minor in Data Science and Virtual Art.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software development, data analysis, and web development.
 
+### Skills
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- **Programming Languages:** Python, C#, Java, JavaScript, HTML, CSS, SQL
+- **Languages:** Chinese, English, Spanish
+- **Other:** Leadership, management, teamwork, customer service
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`January 2023 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID  
+- Bachelor of Science in Computer Science  
+- Minor in Data Science, GPA: 4.0
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`January 2021 - December 2023`
+__Brigham Young University - Hawaii__, Laie, HI 
+- Bachelor of Science in Computer Science  
+- Minor in Virtual Art and Entrepreneurship, GPA: 3.78
 
 
+## Work Experience
 
-## Awards
+`October 2023 – Present`
+__Customer Services Representative__, Brigham Young University - Idaho, University Operations, Rexburg, ID  
+- Lead phone inquiries and build work orders to support university operations.
 
-`2012`
-President, *Royal Society*, London, UK
+`June 2022 – July 2023`
+__Stage Manager__, Brigham Young University Hawaii, McKay Auditorium  
+- Oversaw backstage operations during performances, ensuring technical elements run smoothly.
 
-Associate, *French Academy of Science*, Paris, France
+`June 2022 – December 2022`
+__Vice President of China Club__, Brigham Young University - Hawaii, Laie, Hawaii  
+- Led a club of over 120 members, coordinating events and managing communications.
 
+`September 2021 - June 2022`
+__Customer Services Representative__, Brigham Young University - Hawaii, Facilities Management, Laie, Hawaii  
+- Managed incoming calls and created work orders to support university facilities operations.
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`September 2018 - June 2020`
+__Yearbook Editor in Chair__, Academia Juarez - High School, Chihuahua, Mexico  
+- Led a yearbook team of 12 to create a comprehensive annual publication showcasing school events and student life.
 
 
-## Occupation
+## Projects
 
-`1600`
-__Royal Mint__, London
+`February 2022`
+**Game (Hunter and Beast)** - Java, OOP
 
-- Warden
-- Minted coins
+`January 2023`
+**Digital ID** - SDLC, Market Research
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`October 2024`
+**Personal Website** - HTML, CSS, JS
 
+`January 2024`
+**Student Record System** - Python, MySQL, Firebase
+
+`April 2024`
+**Color To-Do** - React Native, Firebase, AWS
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2024 -->
